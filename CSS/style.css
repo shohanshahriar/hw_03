@@ -1,0 +1,29 @@
+.video1{
+	height: 400px; width: 500px;
+}
+.computer1{
+	background-color: lightgray;
+	margin: 0;
+	padding: 5px;
+}
+.comp1{
+	background-color: white;
+	padding: 10px;
+	margin: 5px;
+	font-size: 90;
+}
+.map1{
+	height: 200px;
+	width: 100%;
+}
+.vid1{
+	height: 315px;
+	width: 560px;
+}
+#list1{
+	float: right;
+	background-color: lightgray;
+}
+.p1{
+	color: red;
+}
